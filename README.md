@@ -1,2 +1,0 @@
-# commentCard
-Created with CodeSandbox
